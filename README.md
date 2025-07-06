@@ -1,10 +1,11 @@
-# Note-Mgmt-Product
+# Note-People-Product-Rel-Mgmt
 
 People mgmt - manager
 - Team mgmt
 - Org
 
-Product/business - release manager
+Product release manager
+- Business
 - XF team communication
 - Partner communication
 - Field support
