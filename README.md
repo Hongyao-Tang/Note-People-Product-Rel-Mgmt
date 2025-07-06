@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Note-People-Product-Rel-Mgmt
 
 People mgmt - manager
