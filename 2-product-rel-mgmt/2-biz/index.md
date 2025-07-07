@@ -1,8 +1,7 @@
 ---
 author: "Hongyao Tang"
-title: "Intro"
-date: "2025-07-02"
-description: "Business related to AI product"
+title: "Business"
+date: "2025-07-06"
 tags: [
     "product",
 ]
