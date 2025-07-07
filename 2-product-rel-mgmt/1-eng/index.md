@@ -9,13 +9,13 @@ ShowToc: true
 weight: 1
 ---
 
-## Writing
+# Writing
 
-### Task 1
+## Task 1
 
 | 题型 | 自然段 | |
 | --- | --- | --- |
-| | 思路 | 示例<br/>![](https://cdn.nlark.com/yuque/0/2025/webp/12698215/1751796405906-cb9ee3ce-5653-4189-8dfd-d26289751caa.webp) |
+| | 思路 | 示例<br/>![](![alt text](images/fish.png)) |
 | 动态图<br/>（2，3，4个时间点）<br/> | 改写题目<br/>+ 原则：全部都改（不缺少题目信息量），能改就改<br/>+ 方法：<br/>    - <u>shows现在时，后面都是过去时</u><br/>    - 扩词<br/>    - 换词<br/>    - 换句式<br/>    - 时间delta | + The graph  -> The line graph<br/>+ below  -> ~~below~~ <br/>+ shows -> illustrates/describes/indicates/gives information about<br/>+ average carbon dioxide (CO2) emissions  -> (how much/changes in the amounts of不可数/number of可数) carbon dioxide **was(名词改动词的时候考虑语态，被排放)** emitted  <br/>+ per person -> per capita/by every person<br/>+ in the United Kingdom, Sweden, Italy and Portugal ->in ~~the~~ Great Britain<br/>+ between 1967 and 2007. -> during four decades from 1967 and 2007 |
 | | 概况<br/>+ 总体趋势<br/>    - <font style="background-color:#FBDE28;">Scope: 所有线的</font><br/>    - <font style="background-color:#FBDE28;">Point: 只看首尾，即使中间有幅度变化，但因为是概括，所以忽略</font><br/>+ 最突出的排序<br/>    - 不好写的不写<br/>    - 不能出现数字，因为是概况 | <font style="color:#DF2A3F;">Overall,</font><br/>+ <font style="background-color:#D8DAD9;">the graph shows the consumption of</font> chicken increased daramtically<br/>+ <font style="background-color:#D8DAD9;">while the popularity of</font> these other foods decreased over the period~~s~~.<br/>It is obvious that the consumption of fish <font style="background-color:#D8DAD9;">remained the least/largest</font>. |
 | | Body 1/2<br/><font style="background-color:#FBDE28;">Scope: 所有线的细节</font><br/>table followed | 怎么说起点排序？按大小顺序描述<br/>In 1979,<br/>+ beef was <font style="background-color:#D8DAD9;">the most popular of these foods</font>, with about 225 grams consumed per person per week<br/>+ Lamb and chicken were <font style="background-color:#D8DAD9;">eaten in similar quantities </font>(around 150 grams),<br/>+ while <font style="background-color:#D8DAD9;">much less</font> fish was consumed (just over 50 grams).<br/><br/>Body 1 下降的一组<br/>+ 起终点，5种句型  During this 25-year period, <br/>+ 两组一起说the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams <font style="background-color:#D8DAD9;">respectively/each</font><br/>+ The consumption of fish also declined gradually to 50 gram.<br/>+ 最少的 It <font style="background-color:#D8DAD9;">remained the least popular</font> food,<br/>+ 最平缓 and the consumption <font style="background-color:#D8DAD9;">levels were the most stable</font>.<br/><br/>Body 2 - 上升的一组<br/>+ 交点，The consumption of chichek, <font style="color:#DF2A3F;">on the other hand</font>, increased significantly, overtaking that of lamb in 1980 and that of beef in 1989, at around 145 grams and about 200 grams respectively.<br/>+ <font style="color:#DF2A3F;">By 2024, it had soared</font> to almost 250 grams per person per week. **(by now, have done; by previous year, had done)** |
@@ -41,8 +41,8 @@ weight: 1
 
 
 
-## Reading
-### Vocabulary
+# Reading
+## Vocabulary
 
 
 
@@ -50,7 +50,7 @@ weight: 1
 ### 生词
 
 
-#### 难想起
+#### 难记
 - chamber n室，洞穴
 - compartment n隔间
 - regent /ˈriːdʒənt/ 统治者 - reg国王， region区域
@@ -189,7 +189,7 @@ weight: 1
 
 
 ### 多样性
-#### 一次多义
+#### 一词多义
 - yield - nv产生 [v屈服放弃yield to]
 - fair - adj/adv公平的，[合理的=rational n展销会]
 - rational 合理的，理性的 rational determination合理判断

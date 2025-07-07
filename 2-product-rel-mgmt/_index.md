@@ -1,6 +1,6 @@
 ---
 title: "Product release Management"
 layout: "list"
-weight: 1
+weight: 2
 #cover: /images/posts-cover.jpg
 ---
