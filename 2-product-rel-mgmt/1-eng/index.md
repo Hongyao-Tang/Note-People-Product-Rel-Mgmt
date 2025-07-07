@@ -49,21 +49,16 @@ weight: 1
 - re重复+percussion n打击乐器
 - repercussion n(不好的)持续影响
 - 
-- strand n岸，滨 v搁浅 n（绳、线、毛发等的）股，缕
-- stranding n搁浅 
-- 
 - stroll vn漫步=wander
 - 
 - contingent adj依情况而定的 be contingent on
-- 
-- burgeon n嫩枝 v发芽；迅速增长 - burg
 - 
 - rig n成套器械，船桅 v操纵，垄断
 - trig外表整洁的  
 - trigger n触发器,扳机,起因 v引发
 
 #### 次难记（带有特征）
-- **chamber** n洞穴,室
+- chamber n洞穴,室
 - compartment n隔间
 - 
 - loom v（尤指阴森森地）隐约出现, 逼近，临近
@@ -74,7 +69,7 @@ weight: 1
 - squanderer n. 放荡者
 - squander vn浪费
 - 
-- stunning adj及其漂亮的
+- stunning adj极其漂亮的
 - 
 - solitary孤独的 gourme**t** / ˈɡʊrmeɪ /美食家
 
@@ -87,7 +82,7 @@ weight: 1
 - hygi**e**nic adj卫生的，保健的
 - forf**e**it /ˈfɔːrfɪt/ v丧失 nf罚金 - feit=fect做
 - fortress /ˈfɔːrtrəs/ n.堡垒；要塞 vt.筑要塞
-- eq**u**ity /ˈekwəti/ 公平
+- equity /ˈekwəti/ 公平
 
 #### 好联想记忆
 - devle v钻研 - 在书架shelves里钻研delve
@@ -101,7 +96,8 @@ weight: 1
 - entangle v使纠缠 - nv探戈舞tango nv缠结tangle在一起
 - secrete v（动植物或其细胞）分泌；隐藏，藏匿（小物件） - 将秘密secret隐藏起来secrete
 - devoid 全无的 - de加强+void空 避免avoid全无的devoid
-
+- strand n岸，滨 v搁浅 n（绳、线、毛发等的）股，缕 站在stand岸边strand
+- stranding n搁浅 
 
 ### 部分熟悉
 #### 直观意思理解容易偏差，理解错 
@@ -111,16 +107,11 @@ weight: 1
 - impartial公正的，不偏不倚的
 - 
 - physician n内科医生 - 不是物理学家physicist /ˈfɪzɪsɪst/
-- surgeon n外科医生
-- 
+- surgeon n外科医生 - 外科医生surgon的数量迅速增长burgeon
+- burgeon n嫩枝 v发芽；迅速增长
+
 - easy-going adj平易近人的 - 不是来的容易
 - Time always easy come easy go.时间总是来的容易去的快
-- 
-- liable adj有责任的，[易于的 be liable/apt to易于xxx]
-- liability n责任 [麻烦的人事，累赘]
-- opt v选择  opt for
-- adept /əˈdept/adj n行家 adj精通的be adept at - 不是无能的 
-- veteran n老手，退伍军人 adj经验丰富的
 - 
 - entrench v使根深蒂固 - 不是拉伸stretch - trench nv战壕 - en进入+trench战壕
 - 
@@ -193,7 +184,13 @@ weight: 1
 - furbish v擦亮
 - refurbish v翻新
 - remnant n剩余物，遗迹=remain(s) adj剩余的=remaining - remn留下+ant物
-
+-
+- opt v选择  opt for
+- apt adj易于的 be apt to 易于
+- adept /əˈdept/adj n行家 adj精通的be adept at - 不是无能的 
+- veteran n老手，退伍军人 adj经验丰富的
+- liable adj有责任的，[易于的 be liable to 易于xxx]
+- liability n责任 [麻烦的人事，累赘]
 - 
 - sweeping adj彻底的，范围广的 a sweeping reinvention彻底的重塑
 
@@ -221,6 +218,7 @@ weight: 1
 - regard v视为 [n关心 in this regard=with regard to在这一方面]
 - surrender vn投降，[放弃交出] surrender individual properties上交个人财产
 - stubborn adj固执的，[（事）顽固的 stubborn question顽固的问题]
+
 
 #### 词性
 - lack nv缺乏
