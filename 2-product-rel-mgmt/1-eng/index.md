@@ -17,8 +17,8 @@ weight: 1
 | --- | --- | --- |
 | | 思路 | 示例<br/>![alt text](images/fish.png) |
 | 动态图<br/>（2，3，4个时间点）<br/> | 改写题目<br/>+ 原则：全部都改（不缺少题目信息量），能改就改<br/>+ 方法：<br/>    - <u>shows现在时，后面都是过去时</u><br/>    - 扩词<br/>    - 换词<br/>    - 换句式<br/>    - 时间delta | + The graph  -> The line graph<br/>+ below  -> ~~below~~ <br/>+ shows -> illustrates/describes/indicates/gives information about<br/>+ average carbon dioxide (CO2) emissions  -> (how much/changes in the amounts of不可数/number of可数) carbon dioxide **was(名词改动词的时候考虑语态，被排放)** emitted  <br/>+ per person -> per capita/by every person<br/>+ in the United Kingdom, Sweden, Italy and Portugal ->in ~~the~~ Great Britain<br/>+ between 1967 and 2007. -> during four decades from 1967 and 2007 |
-| | 概况<br/>+ 总体趋势<br/>    - <font style="background-color:#FBDE28;">Scope: 所有线的</font><br/>    - <font style="background-color:#FBDE28;">Point: 只看首尾，即使中间有幅度变化，但因为是概括，所以忽略</font><br/>+ 最突出的排序<br/>    - 不好写的不写<br/>    - 不能出现数字，因为是概况 | <font style="color:#DF2A3F;">Overall,</font><br/>+ <font style="background-color:#D8DAD9;">the graph shows the consumption of</font> chicken increased daramtically<br/>+ <font style="background-color:#D8DAD9;">while the popularity of</font> these other foods decreased over the period~~s~~.<br/>It is obvious that the consumption of fish <font style="background-color:#D8DAD9;">remained the least/largest</font>. |
-| | Body 1/2<br/><font style="background-color:#FBDE28;">Scope: 所有线的细节</font><br/>table followed | 怎么说起点排序？按大小顺序描述<br/>In 1979,<br/>+ beef was <font style="background-color:#D8DAD9;">the most popular of these foods</font>, with about 225 grams consumed per person per week<br/>+ Lamb and chicken were <font style="background-color:#D8DAD9;">eaten in similar quantities </font>(around 150 grams),<br/>+ while <font style="background-color:#D8DAD9;">much less</font> fish was consumed (just over 50 grams).<br/><br/>Body 1 下降的一组<br/>+ 起终点，5种句型  During this 25-year period, <br/>+ 两组一起说the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams <font style="background-color:#D8DAD9;">respectively/each</font><br/>+ The consumption of fish also declined gradually to 50 gram.<br/>+ 最少的 It <font style="background-color:#D8DAD9;">remained the least popular</font> food,<br/>+ 最平缓 and the consumption <font style="background-color:#D8DAD9;">levels were the most stable</font>.<br/><br/>Body 2 - 上升的一组<br/>+ 交点，The consumption of chichek, <font style="color:#DF2A3F;">on the other hand</font>, increased significantly, overtaking that of lamb in 1980 and that of beef in 1989, at around 145 grams and about 200 grams respectively.<br/>+ <font style="color:#DF2A3F;">By 2024, it had soared</font> to almost 250 grams per person per week. **(by now, have done; by previous year, had done)** |
+| | 概况<br/>+ 总体趋势<br/>    - <font style="background-color:#FBDE28;">Scope: 所有线的</font><br/>    - <font style="background-color:#FBDE28;">Point: 只看首尾，即使中间有幅度变化，但因为是概括，所以忽略</font><br/>+ 最突出的排序<br/>    - 不好写的不写<br/>    - 不能出现数字，因为是概况 | <font style="color:#DF2A3F;">Overall,</font><br/>+ <font style="background-color:#D8DAD9;">the graph shows the consumption of</font> chicken increased daramtically <font style="background-color:#D8DAD9;"><font style="color:#DF2A3F;">while</font> the popularity of</font> these other foods decreased over the period~~s~~.<br/>It is obvious that the consumption of fish <font style="background-color:#D8DAD9;">remained the least/largest</font>. |
+| | Body 1/2<br/><font style="background-color:#FBDE28;">Scope: 所有线的细节</font><br/>table followed | 怎么说起点排序？按大小顺序描述<br/>In 1979,<br/>+ beef was <font style="background-color:#D8DAD9;">the most popular of these foods</font>, with about 225 grams consumed per person per week<br/>+ Lamb and chicken were <font style="background-color:#D8DAD9;">eaten in similar quantities </font>(around 150 grams), <font style="color:#DF2A3F;">while</font> <font style="background-color:#D8DAD9;">much less</font> fish was consumed (just over 50 grams).<br/><br/>Body 1 下降的一组<br/>+ 起终点，5种句型  During this 25-year period, <br/>+ 两组一起说the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams <font style="color:#DF2A3F;">respectively/each.</font><br/>+ The consumption of fish also declined gradually to 50 gram.<br/>+ 最少的 It <font style="background-color:#D8DAD9;">remained the least popular</font> food,<br/>+ 最平缓 and the consumption <font style="background-color:#D8DAD9;">levels were the most stable</font>.<br/><br/>Body 2 - 上升的一组<br/>+ 交点，The consumption of chichek, <font style="color:#DF2A3F;">on the other hand</font>, increased significantly, overtaking that of lamb in 1980 and that of beef in 1989, at around 145 grams and about 200 grams respectively.<br/>+ <font style="color:#DF2A3F;">By 2024, it had soared</font> to almost 250 grams per person per week. **(by now, have done; by previous year, had done)** |
 | 静态图<br/>（0，1个时间点） | 概括<br/>+ <font style="background-color:#FBDE28;">Scope: 跨列</font><br/>+ <font style="background-color:#FBDE28;">Point: 最值分布规律</font> | |
 | | Body<br/>+ <font style="background-color:#FBDE28;">Scope: 每一列</font><br/>+ <font style="background-color:#FBDE28;">Point</font><br/>    - 最大/次大<br/>    - 最小<br/>    - <font style="background-color:#F1A2AB;">对比 1~2次</font><br/>        * 很近： 相似 - similar<br/>        * 不近不远：区间<br/>        * 很远：倍数 | |
 
@@ -149,7 +149,7 @@ weight: 1
 - genius天才
 - ingenious巧妙的 
 - 
-- retentions n.保持，保留
+- retention n.保持，保留
 - contend v主张   主张contend什么内容content
 - proposition n主张  preposition n介词，前置词
 
@@ -162,13 +162,16 @@ weight: 1
 - dissonant adj刺耳的 - dis不+son声音
 - overrun vn泛滥，超过
 
-- excavate v挖掘 - cav洞
-- eradicate v根除 eradicate famine消除饥饿
-- 
+- ex**cav**ate v挖掘 - cav洞
+- e**radic**ate v根除 eradicate famine消除饥饿
+- radical adj根本的 [极端的 n极端分子]
+
 - custom n习惯
+- customs n海关
+- customer n顾客
 - accustom v使习惯
-- accustomized adj习惯的 - get accustomed to
-- acclimatize v使习惯 - ac+climate+ize  acclimatize onself to
+- accustomized adj习惯的 - get accustomized to
+- ac**climat**ize v使习惯 - ac+climate+ize  acclimatize onself to
 - 
 - audit nv审计
 - auditorial adj审计的
@@ -179,10 +182,11 @@ weight: 1
 - 
 - ingest v咽下，吸收 - gest带来
 - digest v消化，领悟
-- uptake n摄取；领会 oxygen update摄氧量
+- uptake n摄取；领会 oxygen uptake摄氧量
 - 
 - furbish v擦亮
 - refurbish v翻新
+- 
 - remnant n剩余物，遗迹=remain(s) adj剩余的=remaining - remn留下+ant物
 -
 - opt v选择  opt for
@@ -212,9 +216,8 @@ weight: 1
 - dictate v口述 [v规定，支配 n规定命令] dictate price定价
 - marvel n奇迹 [v感到惊异marvel at] - marvelous了不起的；非凡的
 - spectacle n奇观
-- motif n主旨 [装饰图案=totem图腾]animal motif
+- mo‘tif n主旨 [装饰图案=totem图腾]animal motif
 - prospect n前景 [v勘探]
-- radical adj根本的 [极端的 n极端分子]
 - regard v视为 [n关心 in this regard=with regard to在这一方面]
 - surrender vn投降，[放弃交出] surrender individual properties上交个人财产
 - stubborn adj固执的，[（事）顽固的 stubborn question顽固的问题]
@@ -226,7 +229,7 @@ weight: 1
 - means n方法 - be a means of doing, by means of, by no means绝不 by any means无论如何
 
 
-#### 搭配不一样，意思不一样
+#### 搭配
 - argue nv辩论
   - argue about/over 就xxx辩论 
   - argue for 赞成要求xxx，为xxx辩论
