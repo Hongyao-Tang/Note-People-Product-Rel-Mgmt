@@ -15,7 +15,7 @@ weight: 1
 
 | 题型 | 自然段 | |
 | --- | --- | --- |
-| | 思路 | 示例<br/>![](![alt text](images/fish.png)) |
+| | 思路 | 示例<br/>![alt text](images/fish.png) |
 | 动态图<br/>（2，3，4个时间点）<br/> | 改写题目<br/>+ 原则：全部都改（不缺少题目信息量），能改就改<br/>+ 方法：<br/>    - <u>shows现在时，后面都是过去时</u><br/>    - 扩词<br/>    - 换词<br/>    - 换句式<br/>    - 时间delta | + The graph  -> The line graph<br/>+ below  -> ~~below~~ <br/>+ shows -> illustrates/describes/indicates/gives information about<br/>+ average carbon dioxide (CO2) emissions  -> (how much/changes in the amounts of不可数/number of可数) carbon dioxide **was(名词改动词的时候考虑语态，被排放)** emitted  <br/>+ per person -> per capita/by every person<br/>+ in the United Kingdom, Sweden, Italy and Portugal ->in ~~the~~ Great Britain<br/>+ between 1967 and 2007. -> during four decades from 1967 and 2007 |
 | | 概况<br/>+ 总体趋势<br/>    - <font style="background-color:#FBDE28;">Scope: 所有线的</font><br/>    - <font style="background-color:#FBDE28;">Point: 只看首尾，即使中间有幅度变化，但因为是概括，所以忽略</font><br/>+ 最突出的排序<br/>    - 不好写的不写<br/>    - 不能出现数字，因为是概况 | <font style="color:#DF2A3F;">Overall,</font><br/>+ <font style="background-color:#D8DAD9;">the graph shows the consumption of</font> chicken increased daramtically<br/>+ <font style="background-color:#D8DAD9;">while the popularity of</font> these other foods decreased over the period~~s~~.<br/>It is obvious that the consumption of fish <font style="background-color:#D8DAD9;">remained the least/largest</font>. |
 | | Body 1/2<br/><font style="background-color:#FBDE28;">Scope: 所有线的细节</font><br/>table followed | 怎么说起点排序？按大小顺序描述<br/>In 1979,<br/>+ beef was <font style="background-color:#D8DAD9;">the most popular of these foods</font>, with about 225 grams consumed per person per week<br/>+ Lamb and chicken were <font style="background-color:#D8DAD9;">eaten in similar quantities </font>(around 150 grams),<br/>+ while <font style="background-color:#D8DAD9;">much less</font> fish was consumed (just over 50 grams).<br/><br/>Body 1 下降的一组<br/>+ 起终点，5种句型  During this 25-year period, <br/>+ 两组一起说the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams <font style="background-color:#D8DAD9;">respectively/each</font><br/>+ The consumption of fish also declined gradually to 50 gram.<br/>+ 最少的 It <font style="background-color:#D8DAD9;">remained the least popular</font> food,<br/>+ 最平缓 and the consumption <font style="background-color:#D8DAD9;">levels were the most stable</font>.<br/><br/>Body 2 - 上升的一组<br/>+ 交点，The consumption of chichek, <font style="color:#DF2A3F;">on the other hand</font>, increased significantly, overtaking that of lamb in 1980 and that of beef in 1989, at around 145 grams and about 200 grams respectively.<br/>+ <font style="color:#DF2A3F;">By 2024, it had soared</font> to almost 250 grams per person per week. **(by now, have done; by previous year, had done)** |
@@ -44,69 +44,91 @@ weight: 1
 # Reading
 ## Vocabulary
 
+### 没见过
+#### 难记（干）
+- re重复+percussion n打击乐器
+- repercussion n(不好的)持续影响
+- 
+- strand n岸，滨 v搁浅 n（绳、线、毛发等的）股，缕
+- stranding n搁浅 
+- 
+- stroll vn漫步=wander
+- 
+- contingent adj依情况而定的 be contingent on
+- 
+- burgeon n嫩枝 v发芽；迅速增长 - burg
+- 
+- rig n成套器械，船桅 v操纵，垄断
+- trig外表整洁的  
+- trigger n触发器,扳机,起因 v引发
 
-
-
-### 生词
-
-
-#### 难记
-- chamber n室，洞穴
+#### 次难记（带有特征）
+- **chamber** n洞穴,室
 - compartment n隔间
-- regent /ˈriːdʒənt/ 统治者 - reg国王， region区域
-- Regent Hotel 丽晶酒店
-- aliment n滋补品 v滋养
-- idyllic /aɪˈdɪlɪk/ adj田园的，闲适的 idyll n田园诗 /ˈaɪdl/=idol
+- 
 - loom v（尤指阴森森地）隐约出现, 逼近，临近
 - looming adj（不希望或不愉快的事情）迫近的，逼近的
-- martial 军事的 martial music军乐 martial art武术
-- repercussion n不好的持续影响 - percussion n打击乐器
-- rhetoric n修辞，华而不实的言语
-- hygienic adj卫生的，保健的 - hygiene n卫生
+- 
+- martial 军事的 martial music军乐 martial arts武术 - march v行军  - Mars战神
+- 
+- squanderer n. 放荡者
 - squander vn浪费
-- stranding n搁浅 - strand v搁浅 n（绳、线、毛发等的）股，缕
-- stroll vn漫步=wander
+- 
 - stunning adj及其漂亮的
-- contingent adj依情况而定的 be contingent on
-- prosecute v控告
-- stubborn adj固执的，（事）顽固的 stubborn question顽固的问题
-- solitary孤独的
+- 
+- solitary孤独的 gourme**t** / ˈɡʊrmeɪ /美食家
+
+
+#### 不发音
+- id**y**ll /ˈaɪdl/=idol n田园诗  - 爱豆idol喜欢田园诗idyll
+- idyllic /aɪˈdɪlɪk/ adj田园的，闲适的 
+- r**h**etoric n修辞，华而不实的言语
+- hygi**e**n**e** n卫生
+- hygi**e**nic adj卫生的，保健的
+- forf**e**it /ˈfɔːrfɪt/ v丧失 nf罚金 - feit=fect做
+- fortress /ˈfɔːrtrəs/ n.堡垒；要塞 vt.筑要塞
+- eq**u**ity /ˈekwəti/ 公平
 
 #### 好联想记忆
 - devle v钻研 - 在书架shelves里钻研delve
 - buckle nv扣紧 - 把雄鹿buck扣紧buckle
 - venerate v崇敬 - 产生generate崇敬venerate
-- triumph nv胜利 - 胜利triumph之后吹喇叭trump
-
+- triumph nv胜利 - 吹喇叭trump庆祝胜利triumph
+- regent /ˈriːdʒənt/ 统治者 - reg国王 - Regent Hotel 丽晶酒店,统治者酒店
+- aliment n滋补品 v滋养 <- 阿里滋养人
+- whim n心血来潮 - 谁whom有念头whim
+- abject adj凄惨绝望的  abject poverty穷困潦倒 - 被拒绝reject很绝望abject
+- entangle v使纠缠 - nv探戈舞tango nv缠结tangle在一起
+- secrete v（动植物或其细胞）分泌；隐藏，藏匿（小物件） - 将秘密secret隐藏起来secrete
+- devoid 全无的 - de加强+void空 避免avoid全无的devoid
 
 
 ### 部分熟悉
-#### 意思直观理解容易偏差，理解错
-- moral n道德 - mos,品行，性格
-- morale /məˈræl/ n士气，精神面貌 - raise morale提升士气
-- immortal adj永垂不朽的 - mortal adj终有一死的，不能永生的 n凡人
-- eternal adj永恒的 - 外部external是有恒的eternal诱惑
-- temporary 暂时的
-- chronic ad疾病慢性的，积习难改的 - 不是时间的
-- chronological adj按时间顺序的 - 按时间编辑的
-- 
+#### 直观意思理解容易偏差，理解错 
 - desirable adj值得拥有的; 值得做的 - 不是想要的
-- impart v传授，给予 - 把自己的一部分part给出去，不是分割的 impart knowledge - impartial公正的，不偏不倚的
-- physician n内科医生 - 不是物理学家physicist /ˈfɪzɪsɪst/， surgeon n外科医生
-- whim n心血来潮 - 谁whom有念头whim
-- rig n成套器械，船桅 v操纵，垄断 - trig外表整洁的  trigger n触发器,扳机,起因 v引发
-- easy-going adj平易近人的 - Time always easy come easy go.时间总是来的容易去的快
-- abject adj凄惨绝望的  abject poverty穷困潦倒 - adjacent / əˈdʒeɪs(ə)nt /邻近的
-- adept /əˈdept/adj n行家 adj精通的 - 不是无能的 - opt v选择 - be adept at
+- 
+- impart v传授，给予 - 把自己的一部分part给出去，不是分割的 impart knowledge 
+- impartial公正的，不偏不倚的
+- 
+- physician n内科医生 - 不是物理学家physicist /ˈfɪzɪsɪst/
+- surgeon n外科医生
+- 
+- easy-going adj平易近人的 - 不是来的容易
+- Time always easy come easy go.时间总是来的容易去的快
+- 
+- liable adj有责任的，[易于的 be liable/apt to易于xxx]
+- liability n责任 [麻烦的人事，累赘]
+- opt v选择  opt for
+- adept /əˈdept/adj n行家 adj精通的be adept at - 不是无能的 
 - veteran n老手，退伍军人 adj经验丰富的
-- entangle v使纠缠 = tangle nv缠结  - 不是nv探戈舞tango
+- 
 - entrench v使根深蒂固 - 不是拉伸stretch - trench nv战壕 - en进入+trench战壕
-- erratic adj飘忽不定的 n漂泊无定的人，古怪的人；（地质）漂块 - 不是错误的 - err 漫游
+- 
+- erratic adj飘忽不定的 n漂泊无定的人，古怪的人；（地质）漂块 - err 漫游 - 不是错误的
+- 
 - wicked adj邪恶的 - 不是女巫witch
 - 
-- statutory /ˈstætʃətɔːri/adj法定的
-- statute/ ˈstætʃuːt/ n法令
-- statue /ˈstætʃuː / n雕像
+- spontaneous adj自发的 - 不是sponge nv海绵块
 
 
 
@@ -114,78 +136,66 @@ weight: 1
 - company vn陪伴
 - companion n同伴
 - 
-- lic骗
+- 精英elite避开elude诱惑v. elicit
 - elite n精英，adj出类拔萃的
 - elude v避开
 - elicit v引出诱出=tempt
 - temptation n诱惑
 - 
-- equity /ˈekwəti/ 公平
 - 
-- forfeit /ˈfɔːrfɪt/ v丧失 nf罚金 - feit=fect做
-- fortress /ˈfɔːrtrəs/ n.堡垒；要塞 vt.筑要塞
-
-
 - immigration n入境，移民
-- emigration ni出境，移民
+- emigration n出境，移民
 - 
 - observatory 天文台 - observe观察
 - conservatory n温室 - conserve保存
 - 
-- 
 - conspicious adj显眼的 -  con加强+spic看
 - suspicious adj可疑的 - sus由上往下+spic看
-- 
-- 
-- secrete v（动植物或其细胞）分泌；隐藏，藏匿（小物件） - 将秘密secret隐藏起来secrete
 - 
 - commute nv通勤
 - communal adj公共的=collective
 - 
-- convict v定罪 n囚犯  convict of证明有罪
-- convince v说服
+- genius天才
+- ingenious巧妙的 
 - 
-- devoid 全无的 - de加强+void空
-- avoid 避免
-- 
-- 
-- ingenious巧妙的 genius天才
-
-
-
-
-
+- retentions n.保持，保留
+- contend v主张   主张contend什么内容content
+- proposition n主张  preposition n介词，前置词
 
 #### 熟悉加前后缀，不完全准确
 - apace adv快速地 -  a-加强
-- burgeon n嫩枝 v发芽；迅速增长 - burg含苞
 - the Commonweath 英联邦
 - dismantle v拆除，取消  - mantle 地幔
-- excavate v挖掘 - cav洞
-- eradicate v根除 eradicate famine消除饥饿
 - subliminal adj下意识潜意识的 - sub下+limin=limen最小的
 - aboriginal adj土著的 - ab加强+original最初的  abrigional culture土著文化
-- acclimatize v使习惯 - ac+climate+ize  acclimatize onself to
-- accustomized adj习惯的 - get accustomed to
-- accustom v使习惯
-- custom n习惯
-- auditory adj听觉的  audit nv审计 auditorial adj审计的 
-- bullying n霸凌行为  bully v霸凌 n霸凌者
 - dissonant adj刺耳的 - dis不+son声音
+- overrun vn泛滥，超过
+
+- excavate v挖掘 - cav洞
+- eradicate v根除 eradicate famine消除饥饿
+- 
+- custom n习惯
+- accustom v使习惯
+- accustomized adj习惯的 - get accustomed to
+- acclimatize v使习惯 - ac+climate+ize  acclimatize onself to
+- 
+- audit nv审计
+- auditorial adj审计的
+- auditory adj听觉的
+- 
+- bully v霸凌 n霸凌者
+- bullying n霸凌行为  
+- 
 - ingest v咽下，吸收 - gest带来
 - digest v消化，领悟
 - uptake n摄取；领会 oxygen update摄氧量
 - 
-- overrun vn泛滥，超过 - 
-- 
-- refurbish v翻新 - furbish v擦亮
+- furbish v擦亮
+- refurbish v翻新
 - remnant n剩余物，遗迹=remain(s) adj剩余的=remaining - remn留下+ant物
-- retentions n.保持，保留
-- contend v主张   主张contend什么内容content
-- proposition n主张  preposition n介词，前置词
+
 - 
 - sweeping adj彻底的，范围广的 a sweeping reinvention彻底的重塑
-- spontaneous adj自发的 - 不是sponge nv海绵块
 
 
 ### 多样性
@@ -197,22 +207,20 @@ weight: 1
 - clip - [v夹，剪 n夹子/回形针，剪报/电影片段]
 - periodical adj周期的，[n期刊=journal=magzine]
 - resort n度假区 [nv求助诉诸 - 报告report上级，紧急求助resort]
-- liable adj有责任的，[易于的] be liable/apt to易于xxx opt选择
-- liability n责任 [麻烦的人事，累赘]
-- 
 - prompt n提示 [adj迅速的 v促使]
-- sway nv摇摆 [nv影响] under the sway of 受xxx的影响
+- sway nv摇摆 [nv影响 under the sway of 受xxx的影响]
 - stray v迷路，走神，离题 n迷路的 stray away偏离
 - underlie v位于之下 [v成为基础]
 - virtual adj虚拟的，[事实上的virutally]
 - dictate v口述 [v规定，支配 n规定命令] dictate price定价
-- marvel n奇迹 [v感到惊异]marvel at - marvelous了不起的；非凡的
+- marvel n奇迹 [v感到惊异marvel at] - marvelous了不起的；非凡的
 - spectacle n奇观
 - motif n主旨 [装饰图案=totem图腾]animal motif
 - prospect n前景 [v勘探]
-- radical adj根本的[极端的 n极端分子]
+- radical adj根本的 [极端的 n极端分子]
 - regard v视为 [n关心 in this regard=with regard to在这一方面]
 - surrender vn投降，[放弃交出] surrender individual properties上交个人财产
+- stubborn adj固执的，[（事）顽固的 stubborn question顽固的问题]
 
 #### 词性
 - lack nv缺乏
@@ -227,3 +235,22 @@ weight: 1
   - arguo sb into/out of doing 说服某人做/不做某事
 - bet nv打赌
   - bet with sb on sth
+
+### 话题
+#### 法律
+- statue /ˈstætʃuː / n雕像
+- statute/ ˈstætʃuːt/ n法令
+- statutory /ˈstætʃətɔːri/adj法定的
+- prosecute v控告 - pro向前+sec跟随
+- convict v定罪 n囚犯  convict of证明有罪
+- convince v说服
+
+#### 时间
+- mortal adj终有一死的，不能永生的 n凡人
+- moral n道德
+- morale /məˈræl/ n士气，精神面貌 - raise morale提升士气
+- immortal adj永垂不朽的 
+- eternal adj永恒的 - 外部external是有恒的eternal诱惑
+- temporary 暂时的
+- chronic ad疾病慢性的，积习难改的 - 不是时间的
+- chronological adj按时间顺序的 - 按时间学科的
