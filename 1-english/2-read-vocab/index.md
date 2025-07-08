@@ -168,7 +168,7 @@ weight: 2
 - liability n责任 [麻烦的人事，累赘]
 - 
 - sweeping adj彻底的，范围广的 a sweeping reinvention彻底的重塑
-
+ 
 
 ### 多样性
 #### 一词多义
