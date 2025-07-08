@@ -1,6 +1,6 @@
 ---
-title: "Team and Org Management"
+title: "Product release Management"
 layout: "list"
-weight: 1
+weight: 3
 #cover: /images/posts-cover.jpg
 ---

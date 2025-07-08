@@ -1,48 +1,14 @@
 ---
 author: "Hongyao Tang"
-title: "IELTS"
-date: "2025-07-06"
+title: "IELTS Reading Vocabulary"
+date: "2025-07-08"
 tags: [
     "English",
 ]
 ShowToc: true
-weight: 1
+weight: 2
 ---
 
-# Writing
-
-## Task 1
-
-| 题型 | 自然段 | |
-| --- | --- | --- |
-| | 思路 | 示例<br/>![alt text](images/fish.png) |
-| 动态图<br/>（2，3，4个时间点）<br/> | 改写题目<br/>+ 原则：全部都改（不缺少题目信息量），能改就改<br/>+ 方法：<br/>    - <u>shows现在时，后面都是过去时</u><br/>    - 扩词<br/>    - 换词<br/>    - 换句式<br/>    - 时间delta | + The graph  -> The line graph<br/>+ below  -> ~~below~~ <br/>+ shows -> illustrates/describes/indicates/gives information about<br/>+ average carbon dioxide (CO2) emissions  -> (how much/changes in the amounts of不可数/number of可数) carbon dioxide **was(名词改动词的时候考虑语态，被排放)** emitted  <br/>+ per person -> per capita/by every person<br/>+ in the United Kingdom, Sweden, Italy and Portugal ->in ~~the~~ Great Britain<br/>+ between 1967 and 2007. -> during four decades from 1967 and 2007 |
-| | 概况<br/>+ 总体趋势<br/>    - <font style="background-color:#FBDE28;">Scope: 所有线的</font><br/>    - <font style="background-color:#FBDE28;">Point: 只看首尾，即使中间有幅度变化，但因为是概括，所以忽略</font><br/>+ 最突出的排序<br/>    - 不好写的不写<br/>    - 不能出现数字，因为是概况 | <font style="color:#DF2A3F;">Overall,</font><br/>+ <font style="background-color:#D8DAD9;">the graph shows the consumption of</font> chicken increased daramtically <font style="background-color:#D8DAD9;"><font style="color:#DF2A3F;">while</font> the popularity of</font> these other foods decreased over the period~~s~~.<br/>It is obvious that the consumption of fish <font style="background-color:#D8DAD9;">remained the least/largest</font>. |
-| | Body 1/2<br/><font style="background-color:#FBDE28;">Scope: 所有线的细节</font><br/>table followed | 怎么说起点排序？按大小顺序描述<br/>In 1979,<br/>+ beef was <font style="background-color:#D8DAD9;">the most popular of these foods</font>, with about 225 grams consumed per person per week<br/>+ Lamb and chicken were <font style="background-color:#D8DAD9;">eaten in similar quantities </font>(around 150 grams), <font style="color:#DF2A3F;">while</font> <font style="background-color:#D8DAD9;">much less</font> fish was consumed (just over 50 grams).<br/><br/>Body 1 下降的一组<br/>+ 起终点，5种句型  During this 25-year period, <br/>+ 两组一起说the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams <font style="color:#DF2A3F;">respectively/each.</font><br/>+ The consumption of fish also declined gradually to 50 gram.<br/>+ 最少的 It <font style="background-color:#D8DAD9;">remained the least popular</font> food,<br/>+ 最平缓 and the consumption <font style="background-color:#D8DAD9;">levels were the most stable</font>.<br/><br/>Body 2 - 上升的一组<br/>+ 交点，The consumption of chichek, <font style="color:#DF2A3F;">on the other hand</font>, increased significantly, overtaking that of lamb in 1980 and that of beef in 1989, at around 145 grams and about 200 grams respectively.<br/>+ <font style="color:#DF2A3F;">By 2024, it had soared</font> to almost 250 grams per person per week. **(by now, have done; by previous year, had done)** |
-| 静态图<br/>（0，1个时间点） | 概括<br/>+ <font style="background-color:#FBDE28;">Scope: 跨列</font><br/>+ <font style="background-color:#FBDE28;">Point: 最值分布规律</font> | |
-| | Body<br/>+ <font style="background-color:#FBDE28;">Scope: 每一列</font><br/>+ <font style="background-color:#FBDE28;">Point</font><br/>    - 最大/次大<br/>    - 最小<br/>    - <font style="background-color:#F1A2AB;">对比 1~2次</font><br/>        * 很近： 相似 - similar<br/>        * 不近不远：区间<br/>        * 很远：倍数 | |
-
-
-
-
-
-
-
-
-| Point: 点 | <font style="background-color:#F1A2AB;">变化</font> | 词汇 | | 数值 | 句型 |
-| --- | --- | --- | --- | --- | --- |
-| | | v/v-pass/n<br/><u>主动语态，过去式</u> | adv | prep 写具体数字，<u>加单位</u><br/>具体数字后面的数词不加s 120 million/thousand |  |
-| 起点到终点 | 上升 | + 一般上升<br/>    - increase/increased/-<br/>    - climb/climbed/-<br/>    - rise/**rose**/-<br/>    - ~~raise hand~~<br/>    - grow/**grew**/**growth**<br/>    - go up/went up/x<br/>+ 剧烈上升<br/>    - surge/surged/-<br/>    - soar/soared/-<br/>    - rocket/rocketed/x | + 剧烈地<br/>    - sharply/rapidly/significantlydramatic**ally/**drastic**ally**<br/>+ 缓慢地<br/>    - slightly/modestly/moderately/marginally/<br/>+ (上升/下降)持续地<br/>    - gradually/continuously | from num to num | 单阶段<br/>+ TITLE dropped gradually by DELTA<br/>+ [v ->n] TITLE had/experienced a gradual drop of DELTA<br/>+ [There be，主语后置] There was a gradual drop of DELTA in TITLE.<br/>+ [宾语前置被动语态，主语后置] A gradual drop of DELTA could be found in TITLE.<br/>+ [增加时间主语，主语后置]The four decades witnessed a gradual drop of DELTA in TITLE.<br/> |
-| | 下降 | + 一般下降<br/>    - decrease/decreased/-<br/>    - drop/dropped/-<br/>    - fall/**fell**/-<br/>    - decline/declined/-<br/>    - go down/went down/-<br/>    - dwindle/dwindled/**dwindlement**<br/>+ 剧烈下降<br/>    - plunge/-ed/-<br/>    - plummet/-ed/-<br/>    - slump/-ed/-<br/>    - tumble/-ed/- | | | |
-| | 不变 | + remain/stay/keep+stable; remained/stayed/kept+stable; x<br/>+ **stabilise**/stabilised/x<br/>+ level off/levelled off/x | x | at num | |
-| | 波动 | + experience rises and falls/experienced/x<br/>+ fluctuate/fluctuated/fluctuation | dramatially/widly<br/>slightly/moderately |  | 多阶段<br/>+ TITLE grew to a peak but then slumped to<br/>+ TITLE grew to a peak before slumping to <br/>+ [After引导，主语后置] After growing to a peak, TITLE slumped to<br/>+ [增加时间主语，主语后置]The first decade witnessed a growth to a peak, followed by a 30-year period of all in TITLE.  **30-year不加s** |
-| 极值(peak/bottom) | 到达（最值） | + reach the peak/bottom; reached; x<br/>+ arrive at the peak/bottom; arrived; x | x | at num | |
-| 交点 | 动作 | + 超过<br/>    - surpass/supassed/x<br/>    - overtake/overtook/x<br/>    - outnumber/outnumbered/x<br/>    - ~~**exceed**~~<br/>+ 相等be the same as/with, equals to  |  | at num | |
-
-
-
-# Reading
-## Vocabulary
 
 ### 没见过
 #### 难记（干）
@@ -149,8 +115,13 @@ weight: 1
 - genius天才
 - ingenious巧妙的 
 - 
+- 主张contend什么内容content或观点contention，1和3都要争夺
+- contend v主张, [争夺]
+- content n内容 [adj满足的=satisfying v是满足=satisfy]
+- contention n观点，[争夺]
+- 
+- 还是保留retention主张proposition
 - retention n.保持，保留
-- contend v主张   主张contend什么内容content
 - proposition n主张  preposition n介词，前置词
 
 #### 熟悉加前后缀，不完全准确
@@ -189,7 +160,7 @@ weight: 1
 - 
 - remnant n剩余物，遗迹=remain(s) adj剩余的=remaining - remn留下+ant物
 -
-- opt v选择  opt for
+- opt v选择  opt for选择  opt out选择退出
 - apt adj易于的 be apt to 易于
 - adept /əˈdept/adj n行家 adj精通的be adept at - 不是无能的 
 - veteran n老手，退伍军人 adj经验丰富的
@@ -255,3 +226,111 @@ weight: 1
 - temporary 暂时的
 - chronic ad疾病慢性的，积习难改的 - 不是时间的
 - chronological adj按时间顺序的 - 按时间学科的
+
+
+
+
+
+
+
+---
+
+
+
+
+- carrier board载板
+- procure / prəˈkjʊr / 获得 (尤指难以获得的东西)
+- jumper跳线（=jumper wire）
+- di'ssect / dɪˈsekt /解剖
+- beam 梁，横梁；光线，光柱
+- N-gram n元
+- carou'sel / ˌkærəˈsel /旋转木马；（机场的）行李传送带
+- hyperbolic tangent双曲正切函数
+- sigmoid S 形的
+- stochastic 随机的
+- hallucinate  / həˈluːsɪneɪt /出现幻觉
+
+
+- Padding填充
+- headroom (屋顶或桥下的)净空
+- flank侧面
+- is flanked by两侧有
+- die芯片
+- shovel铲, 把…大量送入
+- crunch（大量地）处理（数字）
+- transistor晶体管
+- starve for 挨饿;,使极其缺乏
+- stall to wait 使暂停; 暂停
+
+
+- cache=cash, caching
+- dreaded 令人畏惧的 dread nv畏惧
+- funnel n漏斗 v经过狭窄空间
+- bog沼泽
+- bogged down陷入泥沼
+- Appliance家用电器，(像家电一样开箱即用的)装置
+- draw v吸（气）
+- straw n吸管
+- draw power 汲取能量
+- power feed 供电
+- shed load减轻负担
+- throttle/ ˈθrɑːtl /节流
+
+
+- a blown circuit熔断电路
+- blow 吹,（保险丝）烧断，熔化
+- halt停住
+- stagger 蹒跚, 错开 (假期或工作时间)
+- spike=surge nv猛增，急升
+- transient/ ˈtrænziənt /短暂的,（电流、电压、频率的）瞬变
+- Power transients 功率瞬变 
+- ramping from idle to full power从空转到全功率
+- voltage drops电压降
+- capacitors电容器
+- power substation变电站
+
+
+- lining/ ˈlaɪnɪŋ /
+- silver lining(不幸或不快中的)一线希望
+- cold plate 致冷板
+- tubing管道系统
+- water-based coolant liquid水基冷却液
+- hoses, manifolds, and pumps软管，歧管和泵
+- pumper抽水机,消防车
+- slabs平板 slap扇巴掌
+- struts支柱 struct结构
+- forklifts铲车叉车
+- tandem前后双人自行车
+- in tandem with 与……协同
+
+
+- transmit播送 optical transmitters 光发送机
+- fabric=structure结构
+- saturate湿透, 饱和
+- culprit 犯罪者; 犯错者 (造成问题或麻烦的) 原因
+- cap限额收取（或支出）
+- carve out创造：通过刻苦努力或仿佛切割一样创造（声誉、机会、角色、职位、事业、胜利）等。
+- amortized/ ˈæmərtaɪz /摊销 amortization/ ˌæmərtəˈzeɪʃn /
+- bleeding/ ˈbliːdɪŋ /流血的
+- bleeding-edge前沿的，尖端的
+- All told总共
+
+
+- pay for itself自付：在一段时间内节省的钱与初始成本相等。
+- doubling down加倍下注：在赌博中加倍下注，冒更大的风险以获取更大的回报。
+- codename研发代号
+- trajectory轨迹；（事业等的）发展轨迹
+- xfer (plural xfers) Abbreviation of transfer.
+- Interleave 插空白页于；插叙；交错
+- anneal / əˈniːl /退火
+- clip修剪
+- stale(空气或气味) 不新鲜的
+
+
+barrier to entry进入壁垒：指阻碍个人或公司进入特定类型业务的因素，如官方规定或高昂的成本。
+a drop-in replacement即插即用的替代品
+drop-in（咨询、服务中心等）不用预约的；插入即可使用的
+Dump trucks自卸车：一种可以自动卸载货物的大型货车。
+spin everything up把所有东西都旋转起来
+shaves off刮掉：从物体或表面上切下一小片薄的部分。
+cold start冷启动：指在系统启动或重新启动时，从零开始�
