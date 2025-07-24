@@ -346,3 +346,35 @@ Swizzle用搅酒棒拌和
 tweak扭，拧；稍稍调整（机器、系统等）
 Coa'lesce / ˌkoʊəˈles /v合并
 llama n羊驼
+
+---
+
+subject
+
+object
+predicate
+
+
+Ontology
+
+Taxonom
+
+curate
+n.（某教区的）助理牧师；堂区牧师
+v.操持（收藏品或展品的）展出；组织（音乐节的）演出
+
+Crowdsource v 众包(尤指利用互联网)将工作分配给不特定人群
+
+interoperability
+
+latent adj（性质，状态）潜在的，隐藏的；（芽、静止期等）休眠的，潜伏的；（微生物，尤指病毒）蛰伏的；（疾病）潜伏的
+
+Diffusion扩散，传播
+
+Discriminative 区别的，歧视的；有识别力的
+
+Variational adj变化的
+
+sinusoidal / ˌsɪnəˈsɔɪdl /正弦曲线的
+
+extrapolate  / ɪkˈstræpəleɪt /v外推；推断
